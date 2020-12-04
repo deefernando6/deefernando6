@@ -3,7 +3,11 @@
 - 🎓 I’m currently studying Computer Science at University of Colombo School of Computing.
 - 📚 Working on learning more languages and tools.
 
-- 📫 How to reach me:  🐦 [twitter][twitter] | 👔 [linkedin][linkedin]
+- 📫 How to reach me:  🐦 [twitter][twitter] | 👔 [linkedin][linkedin] 
+<a href="https://dev.to/deefernando6">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Deeghayu Fernando's DEV Profile" height="30" width="30">
+</a>
+
 
 [twitter]: https://twitter.com/DeeghayuF
 [linkedin]:https://www.linkedin.com/in/deeghayu-fernando-7610941a5/
