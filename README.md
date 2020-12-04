@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I'm Deeghayu. Thanks for visiting my GitHub
 
-<!--
-**deefernando6/deefernando6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 I’m currently studying Computer Science at University of Colombo School of Computing.
+- 📚 Working on learning more languages and tools.
 
-Here are some ideas to get you started:
+- 📫 How to reach me:  🐦 [twitter][twitter] | 👔 [linkedin][linkedin]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[twitter]: https://twitter.com/DeeghayuF
+[linkedin]:https://www.linkedin.com/in/deeghayu-fernando-7610941a5/
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deefernando6&layout=compact).
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deefernando6&theme=dark&show_icons=true" alt="Deeghayu_Fernando" /></p>
