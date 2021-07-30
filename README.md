@@ -14,5 +14,5 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deefernando6&layout=compact).
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deefernando6&theme=dark&show_icons=true" alt="Deeghayu_Fernando" /></p>
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deefernando6&layout=compact).
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deefernando6&theme=dark&show_icons=true" alt="Deeghayu_Fernando" /></p>-->
