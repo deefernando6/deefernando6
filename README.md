@@ -1,4 +1,7 @@
 ### Hi there 👋 I'm Deeghayu. Thanks for visiting my GitHub
+<div align="center">
+<img src="https://octodex.github.com/images/codercat.jpg" width="200">
+</div>
 
 - 🎓 I’m currently studying Computer Science at University of Colombo School of Computing.
 - 📚 Working on learning more languages and tools.
@@ -12,9 +15,7 @@
 [twitter]: https://twitter.com/DeeghayuF
 [linkedin]:https://www.linkedin.com/in/deeghayu-fernando-7610941a5/
 
-<div align="center">
-<img src="https://octodex.github.com/images/codercat.jpg" width="200">
-</div>
+
 
 
 
