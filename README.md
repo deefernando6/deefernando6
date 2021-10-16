@@ -12,6 +12,10 @@
 [twitter]: https://twitter.com/DeeghayuF
 [linkedin]:https://www.linkedin.com/in/deeghayu-fernando-7610941a5/
 
+<div align="center">
+<img src="https://octodex.github.com/images/codercat.jpg" width="200">
+</div>
+
 
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deefernando6&layout=compact).-->
