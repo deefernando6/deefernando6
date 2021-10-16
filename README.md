@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Deeghayu. Thanks for visiting my GitHub
 <div align="center">
-<img src="https://octodex.github.com/images/codercat.jpg" width="200">
+<img src="https://octodex.github.com/images/orderedlistocat.png" width="200">
 </div>
 
 - 🎓 I’m currently studying Computer Science at University of Colombo School of Computing.
