@@ -3,7 +3,7 @@
 <img src="https://octodex.github.com/images/orderedlistocat.png" width="200">
 </div>
 
-- 🎓 I’m currently studying Computer Science at University of Colombo School of Computing.
+- 🎓 I’m currently working as a Cloud and Security Engineer at OrangeHRM Inc.
 - 📚 Working on learning more languages and tools.
 
 - 📫 How to reach me:  🐦 [twitter][twitter] | 👔 [linkedin][linkedin] 
